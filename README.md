@@ -10,12 +10,7 @@
 
 ## Features
 
-1. [Compose email via voice](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/compose_mail.ipynb)
-2. [Count total number of mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/total_number_mails.ipynb)  
-3. [Count number of unseen mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/total_number_unseen_mails.ipynb)  
-4. [Fetch unseen mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/unseen_mails.ipynb)  
-5. [Fetch sent mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/sent_mails.ipynb)
-6. [Read latest mail](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/latest_mail.ipynb)  
+1. 
 
 ## Windows Installation  
 
